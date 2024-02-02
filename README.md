@@ -1,25 +1,31 @@
-##EconometricsME
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## EconometricsME 
+
 Course Website: Econometría
 
-#Centro de Investigación y Docencia Económicas A.C.
-Santa Fe, Ciudad de México.
+Centro de Investigación y Docencia Económicas A.C. Santa Fe, Ciudad de
+México.
 
-#Curso: Econometría
-#Maestría en Economía
+Maestría en Economía
 
-Profesores: 
-Dr. Daniel Ventosa Santaulária 
-daniel.ventosa@cide.edu
+Profesores: Dr. Daniel Ventosa Santaulária
+[daniel.ventosa\@cide.edu](mailto:daniel.ventosa@cide.edu){.email}
 
 Dr. Francisco J. Cabrera Hernández
-francisco.cabrera@cide.edu
+[francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu){.email}
 
-Oficina: Planta Alta
-Horas de Oficina: martes 12:10 a 14:10 horas o con cita.
+Oficina: Planta Alta:
+
+Horas de Oficina: con cita.
 
 Laboratorio: Blanca Guarneros
-blanca.guarneros@alumnos.cide.edu
+[blanca.guarneros\@alumnos.cide.edu](mailto:blanca.guarneros@alumnos.cide.edu){.email}
 
 Horario de Clase: martes y jueves de 9:40 a 11:10 horas.
-Horario de Laboratorio: TBD.
 
+Horario de Laboratorio: TBD.

@@ -1,2 +1,3 @@
 # EconometricsME
-Course Website Econometrics: Master in Economics at CIDE
+Course Website: Econometría
+Maestría en Economía CIDE.

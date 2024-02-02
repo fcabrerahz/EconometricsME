@@ -1,10 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
-## EconometricsME 
+## EconometricsME
 
 Course Website: Econometría
 
@@ -13,19 +7,19 @@ México.
 
 Maestría en Economía
 
-Profesores: Dr. Daniel Ventosa Santaulária
+**Profesores:** Dr. Daniel Ventosa Santaulária
 [daniel.ventosa\@cide.edu](mailto:daniel.ventosa@cide.edu){.email}
 
 Dr. Francisco J. Cabrera Hernández
 [francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu){.email}
 
-Oficina: Planta Alta:
+**Oficina:** Planta Alta:
 
-Horas de Oficina: con cita.
+**Horas de Oficina:** con cita.
 
-Laboratorio: Blanca Guarneros
+**Laboratorio:** Blanca Guarneros
 [blanca.guarneros\@alumnos.cide.edu](mailto:blanca.guarneros@alumnos.cide.edu){.email}
 
-Horario de Clase: martes y jueves de 9:40 a 11:10 horas.
+**Horario de Clase:** martes y jueves de 9:40 a 11:10 horas.
 
-Horario de Laboratorio: TBD.
+**Horario de Laboratorio:** TBD.

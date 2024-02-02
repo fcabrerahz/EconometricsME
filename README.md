@@ -8,10 +8,10 @@ México.
 Maestría en Economía
 
 **Profesores:** Dr. Daniel Ventosa Santaulária
-[daniel.ventosa\@cide.edu](mailto:daniel.ventosa@cide.edu){.email}
+[daniel.ventosa\@cide.edu](mailto:daniel.ventosa@cide.edu)
 
 Dr. Francisco J. Cabrera Hernández
-[francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu){.email}
+[francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu)
 
 **Oficina:** Planta Alta:
 

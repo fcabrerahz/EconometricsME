@@ -1,2 +1,2 @@
 # EconometricsME
-Econometría ME PR2024
+Course Website Econometrics Master in Economics at CIDE

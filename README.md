@@ -24,3 +24,8 @@ Dr. Francisco J. Cabrera Hernández
 **Horario de Clase:** martes y jueves de 9:40 a 11:10 horas.
 
 **Horario de Laboratorio:** TBD.
+
+Programa (mitad Francisco Cabrera)
+
+Recap: Conditional Expectation Funcion (1 semana)
+Presentación: https://rpubs.com/fcabrerahz/metrics_CEF

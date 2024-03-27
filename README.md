@@ -25,7 +25,19 @@ Dr. Francisco J. Cabrera Hernández
 
 **Horario de Laboratorio:** TBD.
 
-Programa (mitad Francisco Cabrera)
 
-Recap: Conditional Expectation Funcion (1 semana)
+
+**Programa (mitad Francisco Cabrera)**
+
+1) Recap: Conditional Expectation Funcion (1 sesion)
 Presentación: https://rpubs.com/fcabrerahz/metrics_CEF
+
+2) Recap: Least Squares (1 sesión)
+
+3) Recap: Finite properties (1 semana)
+
+4) Regresión normal y Maxima Verosimilitud (1 semana)
+
+5) Asymptotic theory and hypothesis testing (2 semanas)
+
+6) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)

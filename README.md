@@ -33,11 +33,12 @@ Dr. Francisco J. Cabrera Hernández
 Presentación: https://rpubs.com/fcabrerahz/metrics_CEF
 
 2) Recap: Least Squares (1 sesión)
+Presentación: https://rpubs.com/fcabrerahz/metrics_LS
 
-3) Recap: Finite properties (1 semana)
+4) Recap: Finite properties (1 semana)
 
-4) Regresión normal y Maxima Verosimilitud (1 semana)
+5) Regresión normal y Maxima Verosimilitud (1 semana)
 
-5) Asymptotic theory and hypothesis testing (2 semanas)
+6) Asymptotic theory and hypothesis testing (2 semanas)
 
-6) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)
+7) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)

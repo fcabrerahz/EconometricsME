@@ -35,9 +35,11 @@ Presentación: https://rpubs.com/fcabrerahz/metrics_CEF
 2) Recap: Least Squares (1 sesión)
 Presentación: https://rpubs.com/fcabrerahz/metrics_LS
 
-4) Recap: Finite properties (1 semana)
+3) Recap: Finite properties (1 semana)
+Presentación: https://rpubs.com/fcabrerahz/metrics_FINITE
 
-5) Regresión normal y Maxima Verosimilitud (1 semana)
+4) Regresión normal y Maxima Verosimilitud (1 semana)
+Presentación: https://rpubs.com/fcabrerahz/metrics_normal
 
 6) Asymptotic theory and hypothesis testing (2 semanas)
 

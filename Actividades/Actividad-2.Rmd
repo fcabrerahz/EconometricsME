@@ -27,7 +27,7 @@ d) Take the linear homoskedastic CEF $Y^* = X'\beta + e$; $E[e|X]=0$; $E[e^2|X]=
 
 e) Muestre que $E[\hat{V}_{\hat\beta}^{HC0}|X]$ se encuentra sesgado bajo homoscedasticidad (vea BH 113). Junto con esto, muestre que $HC2$, bajo homoscedasticidad, es insesgado.
 
-f) Siga el ejemplo en R abajo. Obtenga la proyección lineal de Y en X utlizando OLS. Encuentre los errores estándar robustos (hint: lmtest package) y muestre que $HC1<HC2<HC3$ 
+f) Siga el ejemplo en R abajo. Obtenga la proyección lineal de Y en X utlizando OLS. Encuentre los errores estándar robustos (hint: lmtest package) y muestre que, empíricamente, $HC1<HC2<HC3$ 
 
 ```{r, echo=TRUE}
 
@@ -85,7 +85,7 @@ plot(X[,1], X[,2])
 Explique en qué factor aumenta la varianza de acuerdo con los parametros establecidos $n$, $\sigma^2$ y $\rho$ siguiendo la definición de $var[\hat{\beta}|X]$ en BH p.121.   
 
 
-### Ejercicio 2. MLE (preliminar).
+### Ejercicio 2. MLE.
 
 a) Show that plugging in the estimators $\beta_{mle}^2$ and $\hat{\sigma}^2_{mle}$ into: 
 
@@ -96,7 +96,136 @@ We get the maximized log likelihood function (see BH p.142-143). How does it wor
 b)  Suponga que $y_i|\mathbf{x}_i\sim\mathcal{N}(m(\mathbf{x}_i,\mathbf{\beta}_0),\sigma_0^2)$, donde $m(\mathbf{x},\mathbf{\beta})$ es una función del vector de variables explicativas $\mathbf{x}$ y del vector de parámetros $\mathbf{\beta}$ de dimensión $(k\times 1)$. Entonces, $E(y_i|\mathbf{x}_i)=m(\mathbf{x}_i,\mathbf{\beta}_0)$ y $V(y_i|\mathbf{x}_i)=\sigma^2_0$.
 
 - Escriba la función de log verosimilitud condicional para la observación $i$. Muestre que el estimador de máxima verosimilitud $\hat{\mathbf{\beta}}$ resuelve el problema de minimización $\min_\mathbf{\beta}\sum_i(y_i-m(\mathbf{x}_i,\mathbf{\beta}))^2$.
--  Sea $\mathbf{\theta}\equiv(\mathbf{\beta}'\;\sigma^2)'$ un vector de parámetros de dimensión $(k+1)\times 1$. Encuentre el vector score para la observación $i$. Muestre que $E(\mathbf{s}_i(\mathbf{\theta}_0)|\mathbf{x}_i)=\mathbf{0}$.
+
+c)  Sea $\mathbf{\theta}\equiv(\mathbf{\beta}'\;\sigma^2)'$ un vector de parámetros de dimensión $(k+1)\times 1$. Encuentre el vector score para la observación $i$. Muestre que $E(\mathbf{s}_i(\mathbf{\theta}_0)|\mathbf{x}_i)=\mathbf{0}$.
 -  Usando las condiciones de primer orden, encuentre $\hat{\sigma}^2$ en términos de $\hat{\mathbf{\beta}}$.
 -  Encuentre la matriz hesiana de la función de log verosimilitud con respecto a $\mathbf{\theta}$.
+
+d) Show that, under $e \tilde{} N(0,\sigma^2)$ MLE estimators of $\beta$ and $sigma^2$ are equivalent to OLS. 
+
+e) In the normal regression model show that the leave-one out prediction errors $\tilde{e}_i$ and the standardized residuals $\bar{e}_i$ are independent of $\hat\beta$, conditional on X. Hint: Use (3.45) and (4.24) in Hansen.
+
+f) Ejecute el siguiente código en R que sirve como un ejemplo para obtener SE robustos a heterocedasticidad y los t-test de hipótesis correspondientes.
+
+Ejemplo: 
+
+```{r, echo=TRUE, eval=FALSE}
+
+#Environment:
+install.packages("AER")
+library(AER)
+data("CPSSWEducation")
+attach(CPSSWEducation)
+?CPSSWEducation
+
+reg <- lm(earnings ~ education)
+summary(reg)
+
+# plot observations and add the regression line
+plot(education, 
+     earnings, 
+     ylim = c(0, 150))
+
+abline(labor_model, 
+       col = "steelblue", 
+       lwd = 2)
+
+# compute homoskedastic-robust standard errors.
+t <- linearHypothesis(reg, "X = 0")$'Pr(>F)'[2] < 0.05
+
+# compute heteroskedasticity-robust (HC1) standard errors
+t.rob <- linearHypothesis(reg, "X = 0", white.adjust = "hc1")$'Pr(>F)'[2] < 0.05
+
+# show both t-tests, where 1="true" meaning Ho is "true" at the 95% level.
+round(cbind(t = mean(t), t.rob = mean(t.rob)), 3)
+
+# Same fot the varcovar matrix 
+vcov <- vcovHC(labor_model, type = "HC1")
+vcov
+
+# compute the square root of the diagonal elements in vcov
+robust_se <- sqrt(diag(vcov))
+robust_se
+
+# we use `coeftest()` on our robust model and show the assumed-homoskedastic model:
+coeftest(labor_model, vcov. = vcov)
+summary(labor_model)
+```
+
+- Genere datos heteroscedasticos para dos variables X e Y (como en 1.f) los cuales cumplen con la ecuación poblacional $Y = \alpha + \beta X + e$, donde $\beta=1$ 
+- Realice un scatterplot de estas variables con una linea ajustada mostrando su relación. 
+- Ejecute 10,000 regresiones, cada una con nuevas muestras aleatorias provenientes de la misma distribución establecida en (1.f). 
+- Para cada i=1...10,000 ejecute los los test-t "HCO" y "HC2" y almacenelos en un vector "t" y "t.rob"
+- Compute el porcentaje de rechazos de la hipotesis nula $\beta=1$
+- ¿Cuál es la conclusion de este resultado?
+
+g) MLE is the technique that helps us determine the parameters of the distribution that best describe the given data. Imagine that we have a sample that was drawn from a normal distribution with mean $\mu = 5$ and variance $\sigma^2=100$. The objective is to estimate these parameters with MLE. 
+
+The normal log-likelihood function is given by:
+
+$l = -{1\over2}nln(2\pi) - {1\over2}n ln(\sigma^2)- {1 \over 2\sigma^2} \sum(yi-\mu)^2$
+
+*Note that minimizing a negative likelihood function is the same as maximizing the likelihood function.
+
+```{r, echo=TRUE, eval=FALSE}
+
+#we define: 
+
+X <- rnorm(n = 1000, mean = 5, sd = 10)
+df <- data.frame(X)  
+
+#We program the log-likelihood function in R:
+
+normal.lik1 <- function(theta,y){ 
+  mu<-theta[1] 
+  sigma2<-theta[2] 
+  n<-nrow(y)
+  logl<- -.5*n*log(2*pi)-.5*n*log(sigma2)-(1/(2*sigma2))*sum((y-mu)^2)
+  return(-logl) 
+}
+
+#Here theta is a vector containing the two parameters of interest
+#(i.e. theta[1] is equal to mu). The remainder sets n, and the log-likelihood function.
+
+
+# we use optim(starting values, log-likelihood, data) with starting values 0 and 1.
+optim(c(0,1), normal.lik1, y=df)
+
+#We can ask for the method-of-moments-mean directly:
+mean(X)
+var(X)
+```
+
+- Now, estimate the MLE parameters $\beta$ and $\sigma^2$ with Y =  5 + 2X + e.
+
+
+Bis) Lets try to estimate "manually" a poisson regression using MLE (hint: Google the log-likelihood function of a conditional Poisson Distribution):
+
+```{r, echo=TRUE, eval=FALSE}
+
+# Parameters of the Poisson distribution
+lambda <- 2  # Mean parameter of the Poisson distribution
+
+# Generate Poisson-distributed data
+doctor_visits <- rpois(n = 2950, lambda = lambda)
+hist(doctor_visits)
+
+education <- data.frame(CPSSWEducation$education)
+
+nll <- function(theta0,theta1) {
+    x <- education 
+    y <- doctor_visits
+    mu = exp(theta0 + x*theta1)
+    -sum(y*(log(mu)) - mu)  #Why is this?
+}
+
+#optimize using the stats4 library
+stats4::mle(minuslogl = nll, start = list(theta0 = 2, theta1 = 0))
+
+```
+
+- Estimate the same model using the GLM library, and compare the results with the "manual" optimization.
+- Estimate the same model using OLS and make a histogram of the residuals Think: Do they distribute as expected for OLS estimation to be equivalent to MLE?
+
+
 

@@ -42,5 +42,6 @@ Presentación: https://rpubs.com/fcabrerahz/metrics_FINITE
 Presentación: https://rpubs.com/fcabrerahz/metrics_normal
 
 6) Asymptotic theory and hypothesis testing (2 semanas)
+Presentación: https://rpubs.com/fcabrerahz/metrics_asymptotic
 
-7) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)
+8) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)

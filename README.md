@@ -41,7 +41,8 @@ Presentación: https://rpubs.com/fcabrerahz/metrics_FINITE
 4) Regresión normal y Maxima Verosimilitud (1 semana)
 Presentación: https://rpubs.com/fcabrerahz/metrics_normal
 
-6) Asymptotic theory and hypothesis testing (2 semanas)
+5) Asymptotic theory and hypothesis testing (2 semanas)
 Presentación: https://rpubs.com/fcabrerahz/metrics_asymptotic
 
-8) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)
+6) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)
+Presentacion 6a. https://rpubs.com/fcabrerahz/empirical

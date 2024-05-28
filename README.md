@@ -46,3 +46,4 @@ Presentación: https://rpubs.com/fcabrerahz/metrics_asymptotic
 
 6) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)
 Presentacion 6a: https://rpubs.com/fcabrerahz/empirical
+Presentación 6b: https://rpubs.com/fcabrerahz/metrics_potential

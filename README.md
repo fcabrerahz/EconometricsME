@@ -1,11 +1,9 @@
 ## Econometrics ME
 
 Course Website: Econometría
-
+Maestría en Economía
 Centro de Investigación y Docencia Económicas A.C. 
 Santa Fe, Ciudad de México.
-
-Maestría en Economía
 
 **Profesor:** 
 Dr. Francisco J. Cabrera Hernández

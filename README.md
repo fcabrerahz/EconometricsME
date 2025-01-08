@@ -53,6 +53,19 @@ La calificación final se basará en:
 
 Llegar a clase puntual (sólo se admite un retraso de 10 minutos en circunstancias especiales). No se puede utilizar celular durante la clase.
 
+**Temario:** (Calendario aproximado)
+
+Introducción
+[(Tema 1. Expectativas Condicionales y Proyección lineal.)](https://rpubs.com/fcabrerahz/metrics_CEF)
+Tema 2. El Álgebra de Mínimos Cuadrados 
+Tema 3. Regresión con Mínimos Cuadrados (OLS)
+Tema 4. Regresión Normal
+Tema 5. Propiedades asintóticas de OLS. Hansen Ch7. Ch.9; Hayashi; Ch 2.
+
+EXAMEN Parcial 1 (marzo)
+
+
+
 
 **Programa (mitad Francisco Cabrera)**
 

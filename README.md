@@ -65,7 +65,7 @@ Introducción
 
 [Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal)
 
-[Tema 5. Propiedades asintóticas de OLS].(https://rpubs.com/fcabrerahz/metrics_asymptotic)
+[Tema 5. Propiedades asintóticas de OLS.](https://rpubs.com/fcabrerahz/metrics_asymptotic)
 
 ${\color{red}\text{Examen Parcial (31 de Marzo),}}$
 

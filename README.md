@@ -59,36 +59,26 @@ Introducción
 
 [Tema 1. Expectativas Condicionales y Proyección lineal.](https://rpubs.com/fcabrerahz/metrics_CEF)
 
-Tema 2. El Álgebra de Mínimos Cuadrados 
+[Tema 2. El Álgebra de Mínimos Cuadrados.](https://rpubs.com/fcabrerahz/metrics_LS)
 
-Tema 3. Regresión con Mínimos Cuadrados (OLS)
+[Tema 3. Propiedades Finitas.](https://rpubs.com/fcabrerahz/metrics_FINITE)
 
-Tema 4. Regresión Normal
+[Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal)
 
-Tema 5. Propiedades asintóticas de OLS. Hansen Ch7. Ch.9; Hayashi; Ch 2.
+[Tema 5. Propiedades asintóticas de OLS].(https://rpubs.com/fcabrerahz/metrics_asymptotic)
 
-${\color{red}\text{Examen Parcial (Marzo),}}$
+${\color{red}\text{Examen Parcial (31 de Marzo),}}$
 
+Tema 6. Test de Hipótesis 
 
+[Tema 7: Temas aplicados: Especificación, Forma funcional, Dummies, Interacciones, Multicolinealidad, Proxies y Error de Medición.](https://rpubs.com/fcabrerahz/empirical)
 
+Tema 8. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
 
-**Programa (mitad Francisco Cabrera)**
+Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap.
 
-1) Recap: Conditional Expectation Function (1 sesion)
-Presentación: https://rpubs.com/fcabrerahz/metrics_CEF
+Tema 10. Método Generalizado de Momentos.
 
-2) Recap: Least Squares (1 sesión)
-Presentación: https://rpubs.com/fcabrerahz/metrics_LS
+${\color{red}\text{Examen Final (9 de Junio),}}$
+${\color{red}\text{Entrega Proyecto Final (13 de Junio),}}$
 
-3) Recap: Finite properties (1 semana)
-Presentación: https://rpubs.com/fcabrerahz/metrics_FINITE
-
-4) Regresión normal y Maxima Verosimilitud (1 semana)
-Presentación: https://rpubs.com/fcabrerahz/metrics_normal
-
-5) Asymptotic theory and hypothesis testing (2 semanas)
-Presentación: https://rpubs.com/fcabrerahz/metrics_asymptotic
-
-6) Applied Topics: measurement error, missing values, identification, and potential outcomes (2 semanas)
-Presentacion 6a: https://rpubs.com/fcabrerahz/empirical
-Presentación 6b: https://rpubs.com/fcabrerahz/metrics_potential

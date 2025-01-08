@@ -1,19 +1,21 @@
 ## Econometría ME
 
-Course Website: Econometría, Maestría en Economía.
-Centro de Investigación y Docencia Económicas A.C. Santa Fe, Ciudad de México.
+Course Website: Econometría.   
+Maestría en Economía.    
+Centro de Investigación y Docencia Económicas A.C.   
+Santa Fe, Ciudad de México.  
 
 **Profesor:** 
-Dr. Francisco J. Cabrera Hernández
-[francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu)
-Oficina: Planta Alta
-Horas de Oficina: lunes 15:00 a 17:00 horas o con cita.
+Dr. Francisco J. Cabrera Hernández  
+[francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu)  
+Oficina: Planta Alta  
+Horas de Oficina: lunes 15:00 a 17:00 horas o con cita.  
 
 **Laboratorio**: Moises Barranco Juárez
 [moises.barranco\@alumnos.cide.edu](mailto:moises.barranco@alumnos.cide.edu)
 
-**Horario de Clase:** Lunes de 9:40 a 12:40 horas.
-**Horario de Laboratorio:** Por definirse.
+**Horario de Clase:** Lunes de 9:40 a 12:40 horas.  
+**Horario de Laboratorio:** Por definirse.  
 
 
 **Objetivo General:**

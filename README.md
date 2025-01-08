@@ -1,6 +1,6 @@
-## Econometrics ME
+## Econometría ME
 
-Course Website: Econometría
+Econometría
 Maestría en Economía
 Centro de Investigación y Docencia Económicas A.C. 
 Santa Fe, Ciudad de México.
@@ -51,7 +51,9 @@ La calificación final se basará en:
 
 Llegar a clase puntual (sólo se admite un retraso de 10 minutos en circunstancias especiales). No se puede utilizar celular durante la clase.
 
-**Temario:** (Calendario aproximado)
+## Temario: 
+
+(Calendario aproximado)
 
 Introducción
 

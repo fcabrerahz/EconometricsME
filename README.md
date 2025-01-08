@@ -67,7 +67,7 @@ Introducción
 
 [Tema 5. Propiedades asintóticas de OLS.](https://rpubs.com/fcabrerahz/metrics_asymptotic)
 
-${\color{red}\text{Examen Parcial (31 de Marzo),}}$
+${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 Tema 6. Test de Hipótesis 
 
@@ -79,7 +79,7 @@ Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap.
 
 Tema 10. Método Generalizado de Momentos.
 
-${\color{red}\text{Examen Final (9 de Junio),}}$
+${\color{red}\text{Examen Final (9 de Junio)}}$
 
-${\color{red}\text{Entrega Proyecto Final (13 de Junio),}}$
+${\color{red}\text{Entrega Proyecto Final (13 de Junio)}}$
 

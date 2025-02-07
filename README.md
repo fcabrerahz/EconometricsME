@@ -39,8 +39,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 4.	Wooldridge, J. M. (2010). Econometric analysis of cross-section and panel data. MIT Press.
 
 *Lecturas obligatorias:* 
-
-${\color{blue}\text{(Al finalizar Tema 3) **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering?. The Quarterly Journal of Economics, 138(1), 1-35.}}
+ **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? The Quarterly Journal of Economics, 138(1), 1-35. (Tema 3)
  
 **Evaluación:**
 La calificación final se basará en: 

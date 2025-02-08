@@ -2,8 +2,6 @@ library(MASS)  # For mvrnorm
 library(ggplot2)
 library(reshape2)
 library(lattice)  # For 3D plotting
-
-install.packages("reshape2")  # Install the package
 library(reshape2)  # Load it
 
 # Set seed for reproducibility

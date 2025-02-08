@@ -38,7 +38,10 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 3.	Greene, W. H. (2012). Econometric Analysis 7h edition. International Edition, New Jersey: Prentice Hall.
 4.	Wooldridge, J. M. (2010). Econometric analysis of cross-section and panel data. MIT Press.
 
+**Lecturas obligatorias:**
 
+ **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? The Quarterly Journal of Economics, 138(1), 1-35. (Tema 3)
+ 
 **Evaluación:**
 La calificación final se basará en: 
 

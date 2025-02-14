@@ -1,88 +1,33 @@
-## Econometría ME
-
-Course Website: Econometría.   
-Maestría en Economía.    
-Centro de Investigación y Docencia Económicas A.C.   
-Santa Fe, Ciudad de México.  
-
-**Profesor:** 
-Dr. Francisco J. Cabrera Hernández  
-[francisco.cabrera\@cide.edu](mailto:francisco.cabrera@cide.edu)  
-Oficina: Planta Alta  
-Horas de Oficina: lunes 15:00 a 17:00 horas o con cita.  
-
-**Laboratorio**: Moises Barranco Juárez
-[moises.barranco\@alumnos.cide.edu](mailto:moises.barranco@alumnos.cide.edu)
-
-**Horario de Clase:** Lunes de 9:40 a 12:40 horas.  
-**Horario de Laboratorio:** Por definirse.  
+**Proyecto Final Econometría** \
+**Dr. Francisco Cabrera** \
+**Maestría en Economía** \
+**Centro de Investigación y Docencia Económicas (CIDE) A.C.** 
 
 
-**Objetivo General:**
-El objetivo del curso es dotar al alumno con las herramientas teóricas y prácticas necesarias para entender y aplicar las técnicas econométricas más usuales en el análisis de la relación entre variables económicas. 
+**Lineamientos generales:**
+-	El proyecto se realizará en equipos de 3 estudiantes.
+-	El proyecto consta de la entrega de tres avances, cada uno con una ponderación específica en la calificación final del proyecto, de acuerdo con lo siguiente:
 
-**Objetivos Específicos:**
--	Aprender la teoría estadística y econométrica detrás del modelo de regresión simple y multivariado.
--	Aprender teóricamente las violaciones a los supuestos de los modelos de regresión y desarrollar las habilidades para identificarlos y resolverlos teórica y empíricamente.
--	Aprender y aplicar herramientas complementarias a Mínimos Cuadrados Ordinarios.
--	Interpretar resultados de investigación que utilizan econometría aplicada.
--	Realizar comprobaciones empíricas de la teoría a través de simulaciones computacionales en R.  
--	Desarrollar habilidades de extracción, administración, procesamiento, modelación e interpretación de datos económicos. 
+**1.	Presentación de la pregunta de investigación y diagrama de GANTT.** Cada equipo, en no más de 10 minutos, deberá presentar su pregunta de interés y su justificación, de acuerdo con literatura relacionada. Se recomienda presentar el plan del proyecto con un diagrama de Gantt (vea, https://rpubs.com/dafealos/645524) (fecha aproximada, al finalizar el Tema 3.) (*ponderación 20%*).
 
-**Bibliografía:** 
+**2.	Reporte de estadísticas descriptivas.** Por ejemplo, incluyendo una tabla con media, desviación estándar y número de observaciones, así como algunos gráficos de barra y *scatterplots* de las variables dependientes y explicativas conforme apliquen (fecha aproximada, al finalizar el Tema 6.). Este reporte no debe tener una extensión mayor a 4 cuartillas (*ponderación 30%*).
 
-*No hay libro de texto obligatorio pero la teoría que guía el curso se fundamenta Hansen. Las demás referencias son muy útiles para complementar el conocimiento, en especial, Hayashi.*
+**3.	Entrega de reporte final.** El reporte debe contener: (13 de junio) (*ponderación 50%*). 
 
-1.	Hansen, B. (2022). Econometrics. Princeton University Press.
-2.	Hayashi, F. (2011). Econometrics. Princeton University Press.
-3.	Greene, W. H. (2012). Econometric Analysis 7h edition. International Edition, New Jersey: Prentice Hall.
-4.	Wooldridge, J. M. (2010). Econometric analysis of cross-section and panel data. MIT Press.
+i.	Introducción (vea https://www.cgdev.org/blog/how-write-introduction-your-development-economics-paper) \
+ii.	Estadísticas descriptivas (de acuerdo con lo entregado en el punto 2 y la retroalimentación recibida) \
+iii.	Descripción del método (vea punto 4). \
+iv.	Resultados. \
+v.	Limitaciones del método utilizado ¿Cuál sería el *set-up* ideal para poder responder a su pregunta de forma causal?
 
-**Lecturas obligatorias:**
+*La extensión del reporte final es relativamente libre, pero debe ser de 10 cuartillas máximo.  
 
- **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? The Quarterly Journal of Economics, 138(1), 1-35. (Tema 3)
- 
-**Evaluación:**
-La calificación final se basará en: 
+-	La base de datos para este proyecto está acotada a la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH) (en los años pertinentes, sugiero el uso de al menos dos cohortes) \
 
-- Dos exámenes parciales con una ponderación del 30% cada uno.
-- Las entregas relacionadas con los ejercicios desarrollados en los laboratorios (seis en el semestre), que contribuyen con el 20% de la calificación total. *Los laboratorios tendrán un valor en la calificación únicamente si se entregan completos en la fecha y horario estipulados.* 
-- Un trabajo final en donde los estudiantes aplicarán los conocimientos desarrollados en clase a datos de México y que contribuye al restante 20% de la calificación final.
-- Se realizarán lecturas obligatorias a discutirse en sesiones tipo seminario, sin ponderación en la calificación final. 
+**4. Sobre el Método**
 
-**Reglamento:** 
+Se debe plantear un modelo con método de estimación: *máxima verosimilitud.* Lo anterior en a) un contexto de **Variable Dependiente Limitada**, en específico, truncada, censurada, o de conteo (e.g Regresión Tobit, Poisson, o Truncada); o b) se puede utilizar también una regresión cuantílica. 
 
-Llegar a clase puntual (sólo se admite un retraso de 10 minutos en circunstancias especiales). No se puede utilizar celular durante la clase.
-
-## Temario: 
-
-(Calendario aproximado)
-
-Introducción
-
-[Tema 1. Expectativas Condicionales y Proyección lineal.](https://rpubs.com/fcabrerahz/metrics_CEF)
-
-[Tema 2. El Álgebra de Mínimos Cuadrados.](https://rpubs.com/fcabrerahz/metrics_LS)
-
-[Tema 3. Propiedades Finitas.](https://rpubs.com/fcabrerahz/metrics_FINITE)
-
-[Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal)
-
-[Tema 5. Propiedades asintóticas de OLS.](https://rpubs.com/fcabrerahz/metrics_asymptotic)
-
-${\color{red}\text{Examen Parcial (31 de Marzo)}}$
-
-Tema 6. Test de Hipótesis 
-
-[Tema 7: Temas aplicados: Especificación, Forma funcional, Dummies, Interacciones, Multicolinealidad, Proxies y Error de Medición.](https://rpubs.com/fcabrerahz/empirical)
-
-Tema 8. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
-
-Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap.
-
-Tema 10. Método Generalizado de Momentos.
-
-${\color{red}\text{Examen Final (9 de Junio)}}$
-
-${\color{red}\text{Entrega Proyecto Final (13 de Junio)}}$
-
+*Notas:* 
+a. su pregunta de investigación (punto 1) debe considerar de inicio una variable dependiente que cumpla con estos criterios, por lo que se recomienda investigar su naturaleza antes de plantear su pregunta de interés. 
+b. Algunas estimaciones como la de regresión truncada y Poisson no se cubren de manera explícita en este curso, pero con la teoría provista, son relativamente sencillas de seguir y aplicar.

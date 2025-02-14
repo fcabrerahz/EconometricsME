@@ -47,7 +47,7 @@ La calificación final se basará en:
 
 - Dos exámenes parciales con una ponderación del 30% cada uno.
 - Las entregas relacionadas con los ejercicios desarrollados en los laboratorios (seis en el semestre), que contribuyen con el 20% de la calificación total. *Los laboratorios tendrán un valor en la calificación únicamente si se entregan completos en la fecha y horario estipulados.* 
-- Un trabajo final en donde los estudiantes aplicarán los conocimientos desarrollados en clase a datos de México y que contribuye al restante 20% de la calificación final.
+- Un trabajo final en donde los estudiantes aplicarán algunos de los conocimientos desarrollados en clase a datos de México y que contribuye al restante 20% de la calificación final.
 - Se realizarán lecturas obligatorias a discutirse en sesiones tipo seminario, sin ponderación en la calificación final. 
 
 **Reglamento:** 

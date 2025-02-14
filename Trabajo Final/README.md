@@ -22,12 +22,16 @@ v.	Limitaciones del método utilizado ¿Cuál sería el *set-up* ideal para pode
 
 *La extensión del reporte final es relativamente libre, pero debe ser de 10 cuartillas máximo.  
 
--	La base de datos para este proyecto está acotada a la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH) (en los años pertinentes, sugiero el uso de al menos dos cohortes) \
+-	La base de datos para este proyecto está acotada a la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH) (en los años pertinentes, sugiero el uso de al menos dos cohortes) 
 
 **4. Sobre el Método**
 
-Se debe plantear un modelo con método de estimación: *máxima verosimilitud.* Lo anterior en a) un contexto de **Variable Dependiente Limitada**, en específico, truncada, censurada, o de conteo (e.g Regresión Tobit, Poisson, o Truncada); o b) se puede utilizar también una regresión cuantílica. 
+Se debe plantear un modelo con método de estimación: *máxima verosimilitud.* Lo anterior en: 
+
+a) un contexto de **Variable Dependiente Limitada**, en específico, truncada, censurada, o de conteo (e.g Regresión Tobit, Poisson, o Truncada). \
+b) en un contexto que amerite una regresión cuantílica. 
 
 *Notas:* 
-a. su pregunta de investigación (punto 1) debe considerar de inicio una variable dependiente que cumpla con estos criterios, por lo que se recomienda investigar su naturaleza antes de plantear su pregunta de interés. 
+
+a. su pregunta de investigación (punto 1) debe considerar de inicio una variable dependiente que cumpla con estos criterios, por lo que se recomienda investigar su naturaleza antes de plantear su pregunta de interés. \
 b. Algunas estimaciones como la de regresión truncada y Poisson no se cubren de manera explícita en este curso, pero con la teoría provista, son relativamente sencillas de seguir y aplicar.

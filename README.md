@@ -60,15 +60,17 @@ Llegar a clase puntual (sólo se admite un retraso de 10 minutos en circunstanci
 
 Introducción
 
-[Tema 1. Expectativas Condicionales y Proyección lineal.](https://rpubs.com/fcabrerahz/metrics_CEF)
+[Tema 1. Expectativas Condicionales y Proyección lineal.](https://rpubs.com/fcabrerahz/metrics_CEF) 4 sesiones.
 
-[Tema 2. El Álgebra de Mínimos Cuadrados.](https://rpubs.com/fcabrerahz/metrics_LS)
+[Tema 2. El Álgebra de Mínimos Cuadrados.](https://rpubs.com/fcabrerahz/metrics_LS) 2 sesiones.
 
-[Tema 3. Propiedades Finitas.](https://rpubs.com/fcabrerahz/metrics_FINITE)
+[Tema 3. Propiedades Finitas.](https://rpubs.com/fcabrerahz/metrics_FINITE) 2 sesiones.
 
-[Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal)
+**Avance 1 proyecto final y discusión primera lectura obligatoria** (2 sesiones).
 
-[Tema 5. Propiedades asintóticas de OLS.](https://rpubs.com/fcabrerahz/metrics_asymptotic)
+[Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal) 2 sesiones.
+
+[Tema 5. Propiedades asintóticas de OLS.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 2. sesiones.
 
 ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 

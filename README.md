@@ -64,7 +64,7 @@ Introducción
 
 [Tema 2. El Álgebra de Mínimos Cuadrados.](https://rpubs.com/fcabrerahz/metrics_LS) 2 sesiones.
 
-[Tema 3. Propiedades Finitas.](https://rpubs.com/fcabrerahz/metrics_FINITE) 2 sesiones.
+[Tema 3. Propiedades Finitas.](https://rpubs.com/fcabrerahz/metrics_FINITE) 3 sesiones.
 
 **Avance 1 proyecto final y discusión primera lectura obligatoria** (2 sesiones).
 

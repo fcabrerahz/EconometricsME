@@ -80,9 +80,11 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 Tema 7. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
 
-Tema 8. Métodos de Remuestreo: Jacknife y Bootstrap.
+Tema 8. Censura y Selección.
 
-Tema 9. Método Generalizado de Momentos.
+Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap.
+
+Tema 10 (bis). Método Generalizado de Momentos.
 
 ${\color{red}\text{Examen Final (9 de Junio)}}$
 

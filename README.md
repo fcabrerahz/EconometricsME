@@ -76,7 +76,7 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 [Tema 6: Especificación, Forma funcional, Multicolinealidad, Proxies y Error de Medición.](https://rpubs.com/fcabrerahz/empirical) 1 sesión.
 
-**Avance 2 proyecto final y discusión segunda lectura obligatoria** (2 sesiones).
+**Avance 2 proyecto final** (1 sesion).
 
 Tema 7. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
 

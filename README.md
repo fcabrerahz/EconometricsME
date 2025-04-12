@@ -76,6 +76,8 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 [Tema 6: Temas aplicados: Especificación, Forma funcional, Dummies, Interacciones, Multicolinealidad, Proxies y Error de Medición.](https://rpubs.com/fcabrerahz/empirical)
 
+**Avance 2 proyecto final y discusión segunda lectura obligatoria** (2 sesiones).
+
 Tema 7. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
 
 Tema 8. Métodos de Remuestreo: Jacknife y Bootstrap.

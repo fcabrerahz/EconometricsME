@@ -70,19 +70,17 @@ Introducción
 
 [Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal) 2 sesiones.
 
-[Tema 5. Propiedades asintóticas de OLS.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 2. sesiones.
+[Tema 5. Propiedades asintóticas.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 2. sesiones.
 
 ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
-Tema 6. Test de Hipótesis 
+[Tema 6: Temas aplicados: Especificación, Forma funcional, Dummies, Interacciones, Multicolinealidad, Proxies y Error de Medición.](https://rpubs.com/fcabrerahz/empirical)
 
-[Tema 7: Temas aplicados: Especificación, Forma funcional, Dummies, Interacciones, Multicolinealidad, Proxies y Error de Medición.](https://rpubs.com/fcabrerahz/empirical)
+Tema 7. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
 
-Tema 8. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
+Tema 8. Métodos de Remuestreo: Jacknife y Bootstrap.
 
-Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap.
-
-Tema 10. Método Generalizado de Momentos.
+Tema 9. Método Generalizado de Momentos.
 
 ${\color{red}\text{Examen Final (9 de Junio)}}$
 

@@ -70,7 +70,7 @@ Introducción
 
 [Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal) 3 sesiones.
 
-[Tema 5. Propiedades asintóticas.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 2. sesiones.
+[Tema 5. Propiedades asintóticas.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 3. sesiones.
 
 ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 

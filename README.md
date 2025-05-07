@@ -78,7 +78,7 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 **Avance 2 proyecto final** (1 sesion).
 
-Tema 7. Máxima Verosimilitud: Elección binaria y Regresión quantil. 
+Tema 7. Regresión quantil y Elección binaria. 
 
 Tema 8. Censura y Selección.
 

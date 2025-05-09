@@ -30,3 +30,26 @@ legend("topleft",
        legend = c("OLS (mean)", "QR τ = 0.5 (median)", "QR τ = 0.2"),
        col = c("blue", "red", "darkgreen"),
        lwd = 2, lty = c(1, 2, 3))
+
+###NOW ADDING Variance diffrences (see slide 23-28):
+
+# Load quantreg
+library(quantreg)
+
+# Simulate heteroskedastic data
+set.seed(123)
+n <- 1000
+x <- runif(n, 0, 5)
+sigma <- 0.5 + x  # heteroskedasticity: variance increases with x
+eps <- rnorm(n, mean = 0, sd = sigma)
+y <- 1 + 0.5 * x + eps  # true model
+
+# Estimate quantile regression
+tau <- 0.5
+fit <- rq(y ~ x, tau = tau)
+
+# Classical (homoskedastic) SE
+summary(fit, se = "nid")
+
+# Robust (heteroskedasticity-consistent) SE
+summary(fit, se = "ker")

@@ -42,7 +42,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 
  **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? *The Quarterly Journal of Economics*, 138(1), 1-35. (Tema 3)
 
-**Buchinsky, M. (2001)** Quantile regression with sample selection : Estimating women's return to education in the U.S. *Empirical Economics* 26, 87–113 . https://doi.org/10.1007/s001810000061 (Tema 7)
+**Buchinsky, M. (2001)** Quantile regression with sample selection : Estimating women's return to education in the U.S. *Empirical Economics* 26, 87–113. (Tema 7)
  
 **Evaluación:**
 La calificación final se basará en: 

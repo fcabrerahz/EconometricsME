@@ -42,7 +42,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 
  **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? The Quarterly Journal of Economics, 138(1), 1-35. (Tema 3)
 
-**Kong, Y., Dong, C., & Zhang, Y. (2023).** Quantile on Quantile Analysis of Natural resources-growth and geopolitical risk trilemma. Resources Policy, 85, 103935. (Tema 7)
+**Guo, Y., Wong, W. K., Su, N., Ghardallou, W., Gavilán, J. C. O., Uyen, P. T. M., & Cong, P. T. (2023).** Resource curse hypothesis and economic growth: A global analysis using bootstrapped panel quantile regression analysis. Resources Policy, 85, 103790. (Tema 7)
  
 **Evaluación:**
 La calificación final se basará en: 

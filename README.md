@@ -41,6 +41,8 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 **Lecturas obligatorias:**
 
  **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? The Quarterly Journal of Economics, 138(1), 1-35. (Tema 3)
+
+**Kong, Y., Dong, C., & Zhang, Y. (2023).** Quantile on Quantile Analysis of Natural resources-growth and geopolitical risk trilemma. Resources Policy, 85, 103935. (Tema 7)
  
 **Evaluación:**
 La calificación final se basará en: 

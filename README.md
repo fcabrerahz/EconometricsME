@@ -40,9 +40,9 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 
 **Lecturas obligatorias:**
 
- **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? The Quarterly Journal of Economics, 138(1), 1-35. (Tema 3)
+ **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? *The Quarterly Journal of Economics*, 138(1), 1-35. (Tema 3)
 
-**Guo, Y., Wong, W. K., Su, N., Ghardallou, W., Gavilán, J. C. O., Uyen, P. T. M., & Cong, P. T. (2023).** Resource curse hypothesis and economic growth: A global analysis using bootstrapped panel quantile regression analysis. Resources Policy, 85, 103790. (Tema 7)
+**Buchinsky, M. (2001)** Quantile regression with sample selection : Estimating women's return to education in the U.S. *Empirical Economics* 26, 87–113 . https://doi.org/10.1007/s001810000061 (Tema 7)
  
 **Evaluación:**
 La calificación final se basará en: 

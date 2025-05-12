@@ -78,11 +78,11 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 **Avance 2 proyecto final** (1 sesion).
 
-Tema 7. Regresión quantil y Elección binaria. 
+[Tema 7. Regresión quantil y Elección binaria.](https://rpubs.com/fcabrerahz/metrics_quantil) 3 sesiones.
 
-Tema 8. Censura y Selección.
+Tema 8. Censura y Selección (2 sesiones)
 
-Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap.
+Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap (2 sesiones)
 
 Tema 10 (bis). Método Generalizado de Momentos.
 

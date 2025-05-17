@@ -72,7 +72,7 @@ Introducción
 
 [Tema 4. Regresión Normal y Máxima Verosimilitud.](https://rpubs.com/fcabrerahz/metrics_normal) 3 sesiones.
 
-[Tema 5. Propiedades asintóticas.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 3. sesiones.
+[Tema 5. Propiedades asintóticas.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 3 sesiones.
 
 ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
@@ -82,9 +82,9 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 [Tema 7. Regresión quantil y Elección binaria.](https://rpubs.com/fcabrerahz/metrics_quantil) 3 sesiones.
 
-[Tema 8. Censura y Selección (1 sesión)](https://rpubs.com/fcabrerahz/metrics_censoring)
+[Tema 8. Censura y Selección](https://rpubs.com/fcabrerahz/metrics_censoring) 1 sesión.
 
-Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap (2 sesiones)
+Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap. 2 sesiones.
 
 Tema 10 (bis). Método Generalizado de Momentos.
 

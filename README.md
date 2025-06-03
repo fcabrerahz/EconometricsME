@@ -88,7 +88,7 @@ Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap. 2 sesiones.
 
 Tema 10 (bis). Método Generalizado de Momentos.
 
-${{red}\text{Examen Final (9 de Junio)}}$
+${\color{green}\text{Examen Final (9 de Junio)}}$
 
-${{red}\text{Entrega Proyecto Final (13 de Junio)}}$
+${\color{green}\text{Entrega Proyecto Final (13 de Junio)}}$
 

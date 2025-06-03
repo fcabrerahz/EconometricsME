@@ -23,7 +23,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 
 **Objetivos Específicos:**
 -	Aprender la teoría estadística y econométrica detrás del modelo de regresión simple y multivariado.
--	Aprender teóricamente las violaciones a los supuestos de los modelos de regresión y desarrollar las habilidades para identificarlos y resolverlos teórica y empíricamente.
+-	Aprender teóricamente las violaciones a los supuestos de los modelos de regresión y desarrollar las habilidades para identificarlos y afrontarlos teórica y empíricamente.
 -	Aprender y aplicar herramientas complementarias a Mínimos Cuadrados Ordinarios.
 -	Interpretar resultados de investigación que utilizan econometría aplicada.
 -	Realizar comprobaciones empíricas de la teoría a través de simulaciones computacionales en R.  

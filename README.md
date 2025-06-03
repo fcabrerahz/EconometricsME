@@ -82,7 +82,7 @@ ${\color{red}\text{Examen Parcial (31 de Marzo)}}$
 
 [Tema 7. Regresión quantil y Elección binaria.](https://rpubs.com/fcabrerahz/metrics_quantil) 3 sesiones.
 
-[Tema 8. Censura y Selección](https://rpubs.com/fcabrerahz/metrics_censoring) 1 sesión.
+[Tema 8. Censura y Selección](https://rpubs.com/fcabrerahz/metrics_censoring) 2 sesiones.
 
 Tema 9. Métodos de Remuestreo: Jacknife y Bootstrap. 2 sesiones.
 

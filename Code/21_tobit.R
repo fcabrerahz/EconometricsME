@@ -1,4 +1,3 @@
-# Load required libraries
 library(AER)       # for tobit()
 library(ggplot2)
 library(dplyr)
@@ -80,3 +79,4 @@ print(summary_table)
 #sigma It tells you how spread out the latent (uncensored) outcome 
 #You don’t observe Y* for Y less than zero
 #The Tobit model infers σ as part of the maximum likelihood estimation.
+

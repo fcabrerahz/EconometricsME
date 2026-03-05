@@ -5,7 +5,7 @@ n <- 2000
 # Regressors
 x1 <- rnorm(n)
 x2 <- rnorm(n)
-X  <- cbind(1, x1, x2)              # include intercept
+X  <- cbind(1, x1, x2)          
 beta <- c(1, 2, -1)
 
 # 1) HOMOSKEDASTIC ERRORS

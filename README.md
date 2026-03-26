@@ -74,7 +74,7 @@ Introducción
 
 [Tema 5. Propiedades asintóticas.](https://rpubs.com/fcabrerahz/metrics_asymptotic) 3 sesiones.
 
-${\color{red}\text{Examen Parcial (primera semana de abril)}}$
+${\color{red}\text{Examen Parcial (9 de abril)}}$
 
 [Tema 6: Tópicos aplicados: Proxies, Error de Medición y Valores perdidos.](https://rpubs.com/fcabrerahz/empirical) 1 sesión.
 

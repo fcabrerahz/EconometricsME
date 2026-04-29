@@ -23,7 +23,7 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 
 **Objetivos Específicos:**
 -	Aprender la teoría estadística y econométrica del modelo de regresión simple y multivariado.
--	Aprender teóricamente las violaciones a los supuestos de los modelos de regresión y desarrollar las habilidades para identificarlas y afrontarlas teóricamente y empíricamente.
+-	Aprender teóricamente las violaciones de los supuestos de los modelos de regresión y desarrollar las habilidades para identificarlas y afrontarlas, tanto teóricamente como empíricamente.
 -	Aprender y aplicar herramientas complementarias a los Mínimos Cuadrados Ordinarios.
 -	Interpretar resultados de investigación que emplean econometría aplicada.
 -	Realizar comprobaciones empíricas de la teoría mediante simulaciones computacionales en R.  
@@ -41,6 +41,8 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 **Lecturas obligatorias:**
 
  **Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. M. (2023).** When should you adjust standard errors for clustering? *The Quarterly Journal of Economics*, 138(1), 1-35. (Tema 3)
+
+ **Cabrera F. & Cabrera-Hernández, F.J., Orraca-Romano, P.P. (2023).** Inequality in the Household: How Parental Income Matters for the Long-Term Treatment of Healthy and Unhealthy Siblings. J Fam Econ Iss 44, 674–692. https://doi.org/10.1007/s10834-022-09858-9 (Tema 6)
 
 **Buchinsky, M. (2001)** Quantile regression with sample selection: Estimating women's return to education in the U.S. *Empirical Economics* 26, 87–113. (Tema 7)
  
